@@ -10,7 +10,7 @@ public class Week1OperationsAndVariables {
 		String customerFirstName = "Greg";
 		String streetAddress = "123 Main Street";
 		System.out.println("Seats left on plane: " + planeSeatsLeft);
-		System.out.println("Cost of groceries: " +groceryCost);
+		System.out.println("Cost of groceries: " + groceryCost);
 		System.out.println("Middle initial: " + middleInitial);
 		System.out.println("Is it hot outside? " + trueIfHot);
 		System.out.println("Customer's first name is " + customerFirstName);
@@ -25,6 +25,8 @@ public class Week1OperationsAndVariables {
 		System.out.println("Is it hot outside? " + trueIfHot);
 		String fullName = customerFirstName + " " + middleInitial + " " + "Gregson";
 		System.out.println("The customer is " + fullName + " and they live at " + streetAddress);
+		System.out.println("The customer is " + fullName + " and they live at " + streetAddress);
+
 	}
 	
 }
