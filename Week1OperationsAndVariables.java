@@ -25,7 +25,6 @@ public class Week1OperationsAndVariables {
 		System.out.println("Is it hot outside? " + trueIfHot);
 		String fullName = customerFirstName + " " + middleInitial + " " + "Gregson";
 		System.out.println("The customer is " + fullName + " and they live at " + streetAddress);
-		System.out.println("The customer is " + fullName + " and they live at " + streetAddress);
 
 	}
 	
